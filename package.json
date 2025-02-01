@@ -1,0 +1,16 @@
+{
+  "name": "Gesture-detection",
+  "version": "1.0.0",
+  "description": "A real-time hand gesture detection web app using TensorFlow.js and Fingerpose.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.7.0",
+    "@tensorflow-models/handpose": "^0.0.7",
+    "fingerpose": "^0.1.0"
+  },
+  "author": "Ramishka Madhushan",
+  "license": "MIT"
+}
